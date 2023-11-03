@@ -10,6 +10,6 @@ Experienced waterfront structural engineer, now dedicated to becoming a software
 
 ## Skills 
 💻 **Programming:** Java, SQL  
-🛠️ **Tools & Technologies:** JUnit, Git  
+🛠️ **Tools & Technologies:** JUnit, Git, Gradle  
 🎓 **Knowleges:** TDD, CI/CD, Patterns  
 🤝 **Soft Skills:** Teamwork, Lifelong Learning, Problem Solving, Adaptability, Verbal/Written communications  
