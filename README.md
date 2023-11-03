@@ -1,7 +1,7 @@
 ## About
 Experienced waterfront structural engineer, now dedicated to becoming a software developer. Rich background has sharpened my soft skills and granted me a comprehensive understanding of business processes. Currently studying at Hexlet. Actively seeking an internship opportunity to apply skills and contribute to ambitious projects.
  
-[LinkedIn](linkedin.com/in/konstantin-serebrianskii)  
+[LinkedIn](https://www.linkedin.com/in/konstantin-serebrianskii/)  
 [CV](https://www.canva.com/design/DAFy0TEi9B8/OOTMQN4Z4Z7cfgraJnD66w/view?utm_content=DAFy0TEi9B8&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 
 ## Educational Projects
