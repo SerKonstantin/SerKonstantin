@@ -7,9 +7,10 @@ Experienced waterfront structural engineer, now dedicated to becoming a software
 ## Educational Projects
 [Text File Comparator](https://github.com/SerKonstantin/java-project-71)  
 [Data Validator](https://github.com/SerKonstantin/java-project-78)  
+[Website analyzer](https://github.com/SerKonstantin/java-project-72)  
 
 ## Skills 
-💻 **Programming:** Java, SQL  
-🛠️ **Tools & Technologies:** JUnit, Git, Gradle  
+💻 **Programming:** Java, SQL, HTML, CSS  
+🛠️ **Tools & Technologies:** JUnit, Git, Gradle, Javalin  
 🎓 **Knowleges:** TDD, CI/CD, Patterns  
 🤝 **Soft Skills:** Teamwork, Lifelong Learning, Problem Solving, Adaptability, Verbal/Written communications  
