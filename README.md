@@ -8,7 +8,7 @@ Experienced waterfront structural engineer, now dedicated to becoming a Java dev
 [Text File Comparator](https://github.com/SerKonstantin/java-project-71)  
 [Data Validator](https://github.com/SerKonstantin/java-project-78)  
 [Website analyzer](https://github.com/SerKonstantin/java-project-72)  
-[Task Manager (work in progress)](https://github.com/SerKonstantin/java-project-72)
+[Task Manager (work in progress)](https://github.com/SerKonstantin/java-project-99)
 
 ## Skills 
 💻 **Programming:** Java, SQL, HTML, CSS  
