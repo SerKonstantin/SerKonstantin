@@ -1,14 +1,14 @@
-## About
+# Hi, I'm Konstantin 👋
 Enthusiastic Java developer intern transitioning from an 11-year career in waterfront structural engineering. Rich background has sharpened my soft skills and granted me a comprehensive understanding of business processes. Actively seeking an internship opportunity to apply skills, contribute to various projects and evolve as a professional.
  
 [LinkedIn](https://www.linkedin.com/in/konstantin-serebrianskii/)  
 [CV](https://github.com/SerKonstantin/SerKonstantin/blob/main/Konstantin%20Serebrianskii%20CV.pdf)  
 
 ## Educational Projects
-[Text File Comparator](https://github.com/SerKonstantin/java-project-71)  
-[Data Validator](https://github.com/SerKonstantin/java-project-78)  
+[Task Manager](https://github.com/SerKonstantin/java-project-99)  
 [Website analyzer](https://github.com/SerKonstantin/java-project-72)  
-[Task Manager](https://github.com/SerKonstantin/java-project-99)
+[Data Validator](https://github.com/SerKonstantin/java-project-78)  
+[Text File Comparator](https://github.com/SerKonstantin/java-project-71)  
 
 ## Skills 
 💻 **Programming:** Java, SQL, HTML, CSS  
