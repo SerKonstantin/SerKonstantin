@@ -5,10 +5,9 @@ Enthusiastic Java developer intern transitioning from an 11-year career in water
 [CV](https://github.com/SerKonstantin/SerKonstantin/blob/main/Konstantin%20Serebrianskii%20CV.pdf)  
 
 ## Educational Projects
+[Crypto Wallet (Work in progress)](https://github.com/SerKonstantin/crypto-wallet)
 [Task Manager](https://github.com/SerKonstantin/java-project-99)  
-[Website analyzer](https://github.com/SerKonstantin/java-project-72)  
-[Data Validator](https://github.com/SerKonstantin/java-project-78)  
-[Text File Comparator](https://github.com/SerKonstantin/java-project-71)  
+[Website analyzer](https://github.com/SerKonstantin/java-project-72)   
 
 ## Skills 
 💻 **Programming:** Java, SQL, HTML, CSS  
