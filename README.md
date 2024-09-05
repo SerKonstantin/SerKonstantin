@@ -2,7 +2,7 @@
 Enthusiastic junior developer transitioning from an 11-year career in waterfront structural engineering. Rich background has sharpened my soft skills and granted me a comprehensive understanding of business processes. Actively seeking an internship opportunity to apply skills, contribute to various projects and evolve as a professional.
  
 [LinkedIn](https://www.linkedin.com/in/konstantin-serebrianskii/)  
-[CV](https://github.com/SerKonstantin/SerKonstantin/blob/main/Konstantin%20Serebrianskii%20CV.pdf)  
+[CV](https://docs.google.com/document/d/13THcCmq9Fp_JtezFoAc7vkGOzOGmgGzd4a1c5EN2QIw/edit?usp=sharing)  
 
 ## Educational Projects
 [Crypto Wallet (Work in progress)](https://github.com/SerKonstantin/crypto-wallet)  
